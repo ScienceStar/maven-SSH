@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="struts2spring3mybatis:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="struts2-spring3-mybatis.war">
+      <element id="artifact" artifact-name="struts2spring3mybatis:war exploded" />
+    </root>
+  </artifact>
+</component>
